@@ -72,3 +72,8 @@ Certainly! Here are a few project ideas that could be interesting to cover, cons
 These projects can provide practical experience in backend development, database management with MongoDB, API integrations, and frontend development with JavaScript frameworks. They also offer opportunities to explore scalability, security, and user experience considerations in real-world applications.
 
 
+learnt Nodejs server creation 
+learnt Mongodb 
+learnt Authentication and Authorization 
+learnt Nodemailer service 
+
