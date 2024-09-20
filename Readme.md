@@ -1,3 +1,4 @@
+
 # BACKEND JOURNEY AS A NODEJS DEV
 
 
@@ -76,4 +77,5 @@ learnt Nodejs server creation
 learnt Mongodb 
 learnt Authentication and Authorization 
 learnt Nodemailer service 
+learnt JWT
 
